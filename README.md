@@ -259,3 +259,12 @@ loginUser($conn, $name, $pwd)
 - [YouTube Tutorial](https://www.youtube.com/watch?v=gCo6JqGMi30)
 
 
+## 📚 Screenshots
+
+![database and users table](images/Screenshot 2026-05-29 112457.png)(images/Screenshot 2026-05-29 112552.png)
+![config.php](images/Screenshot 2026-05-29 115741.png)
+
+![Register page](images/image.png)
+![Login page](images/Screenshot 2026-05-29 111908.png)
+![Successful login (dashboard)](images/Screenshot 2026-05-29 111941.png)
+![Logout process](images/Screenshot 2026-05-29 111824.png)
