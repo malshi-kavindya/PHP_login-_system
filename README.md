@@ -260,12 +260,22 @@ loginUser($conn, $name, $pwd)
 
 
 ## 📚 Screenshots
-
+- database and users table
 ![database and users table](images/Screenshot2026-05-29112457.png)
+
 ![database and users table](images/Screenshot2026-05-29112552.png)
+
+- config.php
 ![config.php](images/Screenshot2026-05-29115741.png)
 
+- Register page
 ![Register page](images/image.png)
+
+- Login page
 ![Login page](images/Screenshot2026-05-29111908.png)
+
+- Successful login (dashboard)
 ![Successful login (dashboard)](images/Screenshot2026-05-29111941.png)
+
+- Logout process
 ![Logout process](images/Screenshot2026-05-29111824.png)
