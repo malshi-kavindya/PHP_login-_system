@@ -261,7 +261,8 @@ loginUser($conn, $name, $pwd)
 
 ## 📚 Screenshots
 
-![database and users table](images/Screenshot2026-05-29112457.png)(images/Screenshot2026-05-29112552.png)
+![database and users table](images/Screenshot2026-05-29112457.png)
+![database and users table](images/Screenshot2026-05-29112552.png)
 ![config.php](images/Screenshot2026-05-29115741.png)
 
 ![Register page](images/image.png)
